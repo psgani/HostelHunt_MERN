@@ -62,6 +62,7 @@ The application should now be running on http://localhost:3000.
     
 ## Demo
 
+
  - Hostel Owner
    - Sign up and log in as a hostel owner.
    - Create a new hostel and add detailed information such as location, facilities, and pricing.
@@ -69,4 +70,11 @@ The application should now be running on http://localhost:3000.
    - Sign up and log in as a user.
    - Use the filters to search for hostels based on location.
    - View detailed information about each hostel.
+## Screenshots
+![1Homepage_login](https://github.com/user-attachments/assets/f10b87bf-435b-4904-a3e4-a1a3140d5358)
 
+![4LoggedIn](https://github.com/user-attachments/assets/cf0ba9a1-68d7-445c-ba66-0da618121f02)
+
+![6Filter](https://github.com/user-attachments/assets/97cc18f5-acb3-4b15-b950-87ccd8aa37e6)
+
+![8HostelPage](https://github.com/user-attachments/assets/e8eac4e0-d74a-4b29-b04d-8219455e0d3c)
